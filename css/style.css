@@ -1185,7 +1185,9 @@ section{
 #contact{
     background:linear-gradient(180deg, var(--bg), #09091f);
     padding:100px 0;
+    scroll-margin-top:90px;
 }
+
 
 .ci{
     max-width:1160px;
